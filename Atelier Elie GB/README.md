@@ -9,6 +9,11 @@ I tried to keep character/item/location names consistent with the ones used rece
 
 However, there were also some limitations with the length of some of these names, mainly items. So be prepared for names not being 1:1 and shortened/abbreviated.
 
+### About Double Speed
+Double Speed, as the name implies, makes the transitions and text rendering run faster.
+I have not tested it thoroughly. I only tested the first few minutes of the game. The only thing I noticed is a slight difference in audio when navigating menus (like changing item 'tabs'), not a big deal IMO. While it should be fine for the most part, I won't fix any artifacts you may encounter, since the game wasn't designed with this mode in mind.
+**If playing on real hardware, be mindful that this increases power consumption.**
+
 
 ## Disclaimer
 I started this project with the sole intention of seeing if I could modify a game. Once I realized I could, I didn't want to stop there but my Japanese is not advanced enough to translate a game like this.
