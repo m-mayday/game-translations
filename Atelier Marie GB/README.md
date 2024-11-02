@@ -3,7 +3,7 @@ A full translation of Atelier Marie GB for the Game Boy Color. Enjoy!
 
 
 ## Changelog
-
+* **V1.2:** Fixed some descriptions when equipping items.
 * **V1.1:** Fixed some typos and incorrect line breaks. **Reuploaded on September 5th with a quick fix (there was half an 'n' somewhere but I'm not saying where 😜)**
 * **V1.1 - Double Speed:** Added in reference to https://github.com/m-mayday/atelier-marie-gb/issues/3. This enables Double Speed mode, which makes transitions and text rendering faster. A few things to keep in mind about this version:
   * I have not tested it thoroughly. I only tested the first few minutes of the game. The only thing I noticed is a slight difference in audio when navigating menus (like changing item 'tabs'), not a big deal IMO.
