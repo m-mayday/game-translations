@@ -11,7 +11,8 @@ A full translation of Atelier Marie GB for the Game Boy Color. Enjoy!
   * **If playing on real hardware, be mindful that this increases power consumption.**
 
 # Important!
-**I've seen some issues when using mGBA (even the retroarch core), like certain text boxes/lines not showing up when checking out items or recipes. This happens with the original game as well, so please use a different emulator!**
+* **I've seen some issues when using mGBA (even the retroarch core), like certain text boxes/lines not showing up when checking out items or recipes. This happens with the original game as well, so please use a different emulator!**
+* The patch is based on the SGB enhanced version of the game. If it's not working right for you, that might be the issue.
 
 ## Notes
 I tried to keep character/item/location names consistent with the ones used recently in Atelier Marie Remake. In cases where that wasn't possible, I leaned on the translation of Atelier Marie + Elie by the Atelier Traduction team http://ateliertraduction.forumactif.org
